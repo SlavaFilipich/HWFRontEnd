@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HWFRontEnd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Homework2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wildlife 3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wildlife.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

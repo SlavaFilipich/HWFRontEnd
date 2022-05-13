@@ -1,0 +1,46 @@
+header {
+background-color: rgb(155, 147, 163);
+}
+nav {
+    background-color: rgb(240, 12, 12);
+}
+.home {
+    font-weight: normal;
+    font-size: 12px;
+}
+li {
+    list-style: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+a {
+    color: rgb(7, 51, 247);
+}
+.task1 > a {
+    text-decoration: double;
+}
+.task2 > a {
+    text-decoration: double; 
+}
+.task3 > a {
+    text-decoration: double;
+}
+.task1 > a:active {
+    color: blue;
+}
+.task1 > a:hover {
+    color: aqua;
+}
+.task2 > a:hover {
+    color: aqua;
+}
+.task3 > a:hover {
+    color: aqua;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+ 
+
